@@ -1,0 +1,5 @@
+BEGIN
+    INPUT M, P,C
+    T = (M+P+C)/3
+    DISPLAY T
+END
